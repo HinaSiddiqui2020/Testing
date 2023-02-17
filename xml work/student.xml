@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="student.xslt"?>
+<catalog>
+  <cd>
+<author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>10.90</price>
+  </cd>
+  <cd>
+    <author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>150.90</price>
+  </cd>
+
+  <cd>
+    <author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>150.90</price>
+  </cd>
+
+
+  <cd>
+    <author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>10.90</price>
+  </cd>
+  <cd>
+    <author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>150.90</price>
+  </cd>
+
+  <cd>
+    <author>Bob Dylan</author>
+    <title>Empire Burlesque</title>
+    <price>150.90</price>
+  </cd>
+  
+  
+</catalog>
+
+
+
+
+
+

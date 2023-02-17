@@ -1,0 +1,15 @@
+﻿
+ <!ELEMENT student_data (S)+>
+  <!ELEMENT S (to,from,heading,body,name)>
+  <!ELEMENT to (#PCDATA)>
+  <!ELEMENT from (#PCDATA)>
+  <!ELEMENT heading (#PCDATA)>
+  <!ELEMENT body (#PCDATA)>
+<!ATTLIST fname>  <!ELEMENT name (#PCDATA)>
+
+
+
+
+
+
+
